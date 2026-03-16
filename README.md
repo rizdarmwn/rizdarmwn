@@ -4,4 +4,4 @@
 </p>
 
 ### Tech Stack
-[![Skills](https://skillicons.dev/icons?i=go,ts,python,solidjs,postgres,redis,)](https://rizdarmwn.github.io)
+[![Skills](https://skillicons.dev/icons?i=go,ts,python,solidjs,postgres,redis,solidity)](https://rizdarmwn.github.io)
